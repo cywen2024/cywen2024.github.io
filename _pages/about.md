@@ -53,10 +53,6 @@ Professor Wen received his Bachelor of Science degree from the Department of Mec
 <br/>
 <br/>
 <br/>
-溫志湧教授於1986年在國立台灣大學機械工程學系取得工程學士學位，並於1989年及1994年在美國加州理工學院航空工程學系分別取得理學碩士及哲學博士學位。他於1994年2月至7月在美國加州理工學院擔任研究員，其後在台灣大葉大學機械工程學系繼續從事教學及研究工作，並於2002年2月獲取教授席。在大葉大學服務期間，他於1997年8月至2000年7月及2004年8月至2006年7月分別擔任機械與自動化工程學系系主任及教務長。溫教授於2006年8月加入台灣國立成功大學航空太空工程學系，之後，於2012年8月加入香港理工大學機械工程學系。他於2015年5月至2019年8月擔任機械工程學系研究副系主任，現在擔任航空及民航工程學系航空工程講座教授兼系主任及體育科技研究院副院長。溫教授是超過300篇科學論文、國際學術會議論文集及書籍章節的作者或合著者。他亦成功取得十四項專利。他現為香港工程師學會會士及美國航空太空學會的副院士，他亦積極參與國內外機械及航空航太工程有關的專業學術活動，並擔任多個與航空航太工程有關的專業學會及組織的成員。
-<br/>
-<br/>
-<br/>
 Prof. Chih-Yung Wen currently serves as the Leader of two research labs, which are the High-speed TherMo-fluid Lab (HTML Lab) on thermo-fluid research and the Autonomous & Intelligent Robotics Lab (AIRO Lab) on autonomous systems. Feel free to check out the website for more.
 <br/>
 <br/>
@@ -64,6 +60,13 @@ Prof. Chih-Yung Wen currently serves as the Leader of two research labs, which a
     <a href="https://htmlgh034.github.io/" target="_blank">High-speed TherMo-fluid Lab (HTML)</a>
     <a href="https://gh034.github.io/" target="_blank">Autonomous & Intelligent Robotics Lab (AIRO)</a>
 </div>
+<br/>
+<br/>
+<br/>
+溫志湧教授於1986年在國立台灣大學機械工程學系取得工程學士學位，並於1989年及1994年在美國加州理工學院航空工程學系分別取得理學碩士及哲學博士學位。他於1994年2月至7月在美國加州理工學院擔任研究員，其後在台灣大葉大學機械工程學系繼續從事教學及研究工作，並於2002年2月獲取教授席。在大葉大學服務期間，他於1997年8月至2000年7月及2004年8月至2006年7月分別擔任機械與自動化工程學系系主任及教務長。溫教授於2006年8月加入台灣國立成功大學航空太空工程學系，之後，於2012年8月加入香港理工大學機械工程學系。他於2015年5月至2019年8月擔任機械工程學系研究副系主任，現在擔任航空及民航工程學系航空工程講座教授兼系主任及體育科技研究院副院長。溫教授是超過300篇科學論文、國際學術會議論文集及書籍章節的作者或合著者。他亦成功取得十四項專利。他現為香港工程師學會會士及美國航空太空學會的副院士，他亦積極參與國內外機械及航空航太工程有關的專業學術活動，並擔任多個與航空航太工程有關的專業學會及組織的成員。
+<br/>
+<br/>
+溫志勇教授目前領導兩個研究實驗室，分別是專注於熱流體研究的高速熱流體實驗室（HTML Lab）以及專注於自主系統的自主智能機器人實驗室（AIRO Lab）。歡迎瀏覽網站了解更多資訊。
 <br/>
 <br/>
 <br/>
