@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: BEng (NTU); MSc (Caltech); PhD (Caltech); Fellow (ASME, RAeS, HKIE); Associate Fellow/AIAA
+subtitle: BEng (NTU); MSc (Caltech); PhD (Caltech); Fellow (ASME, RAeS, HKIE); Associate Fellow (AIAA)
 
 profile:
   align: right
