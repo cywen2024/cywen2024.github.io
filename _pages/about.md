@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: BEng (NTU); MSc (Caltech); PhD (Caltech); Fellow (ASME, RAeS, HKIE); Associate Fellow/AIAA
 
 profile:
   align: right
