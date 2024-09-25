@@ -1,3 +1,30 @@
 <div class="publications">
   {% bibliography --group_by none --query @*[selected=true]* %}
 </div>
+
+<style>
+  .publications .entry {
+    margin-bottom: 2em;
+    text-align: center;
+  }
+  .publications .entry img {
+    margin-bottom: 10px;
+    width: 100px; /* Adjust the width as needed */
+    height: auto;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    console.log('JavaScript is running'); // Check if the script runs
+    const entries = document.querySelectorAll('.publications .entry');
+    console.log('Number of entries found:', entries.length); // Check how many entries are found
+    entries.forEach(function(entry, index) {
+      console.log('Adding image to entry:', index); // Log each entry being processed
+      const img = document.createElement('img');
+      img.src = '../assets/img/group.png'; // Replace with the path to your image
+      img.alt = 'Publication Image';
+      entry.prepend(img);
+    });
+  });
+</script>
