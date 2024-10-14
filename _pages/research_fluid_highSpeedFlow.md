@@ -22,16 +22,3 @@ The space-time conservation element and solution element (CE/SE) method is a uni
 <p></p>
 
 The disagreement between numerical simulated detonation cell size (Figure 1.) and the experimental measured data has been recognized a long-lasting problem under resolved. In present study, our group developed an averaged temperature model in order to involve the impact of vibrational non-equilibrium on the prediction of detonation cell size. This distinct conception preliminarily succeeds in narrowing the disparity between numerical results and experimental observation (Figure 2.). Compared to the measured cell size provided in literature, the disparity in cell width has been greatly narrowed down to a factor of 1.3.
-
-<!-- Here’s a [list](https://adib2149.github.io/research) of all the research projects I have worked on. -->
-
-Other than these, I have worked on couple of other projects in mHealth, involving `Family Self-management Intervention`, `Veteran Crisis Management`, `Diabetic Retinopathy`, `Electronic Palliative Care`, and some others.
-
-Click on the links to view: [a list of my publications](/publications), and, [a list of additional projects I have worked on](/others).
-
-<!-- {% assign research_projects = site.research_projects %}
-<div class="container">
-    {% for r_project in research_projects %}
-        {% include research_projects.html %}
-    {% endfor %}
-</div> -->
