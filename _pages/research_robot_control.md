@@ -13,15 +13,6 @@ A dynamic model that considers both linear and complex nonlinear effects extensi
 </div>
 <p></p>
 
-# Yefeng Yang MultiUAV Concensus Control
-
-YYF
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://boyangli.com/images/teampic/yefeng.jpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-we have to generate to demo video to remove this image
 
 
 

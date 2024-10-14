@@ -17,11 +17,3 @@ A new generation of UAV “PolyU-Strike” was developed and successfully comple
 </div>
 <p></p>
 
-# Inspection System
-
-YWY
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://boyangli.com/images/teampic/wenyu.jpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<p></p>
-we have to generate a demo video to remove this image

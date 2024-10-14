@@ -17,9 +17,9 @@ children:
     permalink: /research_robot_perception/
   - title: divider
 
-  - title: Planning
-    permalink: /research_robot_planning/
-  - title: divider
+  # - title: Planning
+  #   permalink: /research_robot_planning/
+  # - title: divider
 
   - title: UAV Applications
     permalink: /research_robot_app/
