@@ -5,34 +5,26 @@ nav: true
 nav_order: 3
 dropdown: true
 children:
-  - title: summary
-    permalink: /research_robot_summary/
+  - title: UAV Structures
+    permalink: /research_robot_UAV_struct/
   - title: divider
 
-  - title: Bio-inpired MAV
-    permalink: /research_robot_biomav/
+  - title: Control
+    permalink: /research_robot_control/
   - title: divider
 
-  - title: VTOL
-    permalink: /research_robot_VTOL/
-  - title: divider
-  
-  - title: Multi UAV
-    permalink: /research_robot_multiUAV/
+  - title: Perception
+    permalink: /research_robot_perception/
   - title: divider
 
-  - title: DL applications
-    permalink: /research_robot_DL_app/
+  - title: Planning
+    permalink: /research_robot_planning/
   - title: divider
 
-  - title: SAR UAV
-    permalink: /research_robot_SARUAV/
+  - title: UAV Applications
+    permalink: /research_robot_app/
   - title: divider
 
-  - title: Heterogeneous System
-    permalink: /research_robot_hetero/
-  - title: divider
-
-  - title: UUV
+  - title: UUV (Underwater)
     permalink: /research_robot_UUV/
 ---
