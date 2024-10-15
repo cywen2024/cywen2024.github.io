@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /peopleAlumni/
-title: Alumni
+title:
 description: 
 nav: false
 nav_order: 7
