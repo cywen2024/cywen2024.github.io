@@ -1,0 +1,123 @@
+---
+layout: page
+---
+  <div class="post">
+	<header class="post-header">
+		<h1 class="post-title">
+		Faculty
+		</h1>
+  </header>
+	
+  <article>
+    {% comment %} faculty here!!!!!!!!!! {% endcomment %}
+    {% if page.profiles %}
+      {% for profile in page.profiles %}
+        <hr>
+        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+          {% if profile.image %}
+            {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+            {% if profile.image_circular %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+            {% else %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% endif %}
+            {% capture sizes %}
+              (max-width: 600px) 20vw, 
+              (min-width: 601px) and (max-width: 1200px) 20vw, 
+              (min-width: 1201px) 20vw
+            {% endcapture %}            
+            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+          {% endif %}
+        </div>
+        <div class="clearfix">
+          {% if profile.content %}
+            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+            {{ profile_content | markdownify }}
+          {% else %}
+            {{ content }}
+          {% endif %}
+        </div>
+      {% endfor %}
+    <hr>
+    <hr>
+    <br/>
+    <br/>
+
+    {% comment %} student here!!!!!!!!!! {% endcomment %}
+    <header class="post-header">
+		<h1 class="post-title">
+      Students
+      </h1>
+    </header>
+      {% for student in page.students %}
+        <hr>
+        <div class="profile float-{% if student.align == 'left' %}left{% else %}right{% endif %}">
+          {% if student.image %}
+            {% assign profile_image_path = student.image | prepend: 'assets/img/' %}
+            {% if student.image_circular %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+            {% else %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% endif %}
+            {% capture sizes %}
+              (max-width: 600px) 20vw, 
+              (min-width: 601px) and (max-width: 1200px) 20vw, 
+              (min-width: 1201px) 20vw
+            {% endcapture %}            
+            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=student.image %}
+          {% endif %}
+        </div>
+        <div class="clearfix">
+          {% if student.content %}
+            {% capture profile_content %}{% include_relative {{ student.content }} %}{% endcapture %}
+            {{ profile_content | markdownify }}
+          {% else %}
+            {{ content }}
+          {% endif %}
+        </div>
+      {% endfor %}
+    {% endif %}
+    <hr>
+    <hr>
+    <br/>
+    <br/>
+
+    {% comment %} alumni here!!!!!!!!!! {% endcomment %}
+    <header class="post-header">
+		<h1 class="post-title">
+      Alumnus
+      </h1>
+    </header>
+      {% for alumni in page.alumnus %}
+        <hr>
+        <div class="profile float-{% if alumni.align == 'left' %}left{% else %}right{% endif %}">
+          {% if alumni.image %}
+            {% assign profile_image_path = alumni.image | prepend: 'assets/img/' %}
+            {% if alumni.image_circular %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+            {% else %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% endif %}
+            {% capture sizes %}
+              (max-width: 600px) 20vw, 
+              (min-width: 601px) and (max-width: 1200px) 20vw, 
+              (min-width: 1201px) 20vw
+            {% endcapture %}            
+            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=alumni.image %}
+          {% endif %}
+        </div>
+        <div class="clearfix">
+          {% if alumni.content %}
+            {% capture profile_content %}{% include_relative {{ alumni.content }} %}{% endcapture %}
+            {{ profile_content | markdownify }}
+          {% else %}
+            {{ content }}
+          {% endif %}
+        </div>
+      {% endfor %}
+    <hr>
+    <hr>
+    <br/>
+    <br/>
+  </article>
+</div>
