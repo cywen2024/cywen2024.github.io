@@ -1,21 +1,15 @@
 ---
 layout: profiles
-permalink: /people/
-title: People
-description: members of the AIRO Lab. 
+permalink: /peopleCurrentMembers/
+title: Current Members
+description: 
 nav: false
 nav_order: 7
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: left
-    name: Prof. Chih-Yung Wen
-    image: ppl/cywen.jpg
-    content: ppl_pages/cywen.md
-    image_circular: true # crops the image to make it circular
     
-
   - align: left
     image: ppl/by.jpg
     content: ppl_pages/boyang.md
@@ -133,50 +127,4 @@ students:
     image: ppl/yuzhou.png
     content: ppl_pages/yuzhou.md
     image_circular: true
-
-alumnus:
-  - align: left
-    image: ppl/chenhan.png
-    content: ppl_pages/chenhan.md
-    image_circular: true 
-
-  - align: left
-    image: ppl/duanran.png
-    content: ppl_pages/duanran.md
-    image_circular: true 
-
-  - align: left
-    image: ppl/qianyu.png
-    content: ppl_pages/qianyu.md
-    image_circular: true 
-
-  - align: left
-    image: ppl/weifeng.jpg
-    content: ppl_pages/weifeng.md
-    image_circular: true 
-
-  - align: left
-    image: ppl/shenyang.jpg
-    content: ppl_pages/shenyang.md
-    image_circular: true 
-
-  - align: left
-    image: ppl/yurong.jpg
-    content: ppl_pages/yurong.md
-    image_circular: true 
-
-  - align: left
-    image: ppl/ip.jpg
-    content: ppl_pages/ip.md
-    image_circular: true 
-  
-  - align: left
-    image: ppl/sunjianxuan.jpg
-    content: ppl_pages/jingxuan.md
-    image_circular: true 
-
-  - align: left
-    image: ppl/penghui.jpg
-    content: ppl_pages/penghui.md
-    image_circular: true 
 ---

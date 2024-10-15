@@ -1,13 +1,16 @@
 ---
 layout: page
 ---
-
-<div class="post">
-  {% if page.profiles %}
-    <header class="post-header">
-      <h1 class="post-title"></h1>
-    </header>
-    <article>
+  <div class="post">
+	<header class="post-header">
+		<h1 class="post-title">
+		Faculty
+		</h1>
+  </header>
+	
+  <article>
+    {% comment %} faculty here!!!!!!!!!! {% endcomment %}
+    {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
@@ -19,10 +22,10 @@ layout: page
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
             {% endif %}
             {% capture sizes %}
-              (max-width: 600px) 20vw,
-              (min-width: 601px) and (max-width: 1200px) 20vw,
+              (max-width: 600px) 20vw, 
+              (min-width: 601px) and (max-width: 1200px) 20vw, 
               (min-width: 1201px) 20vw
-            {% endcapture %}
+            {% endcapture %}            
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
           {% endif %}
         </div>
@@ -35,15 +38,17 @@ layout: page
           {% endif %}
         </div>
       {% endfor %}
-      <hr><hr><br/><br/>
-    </article>
-  {% endif %}
+    <hr>
+    <hr>
+    <br/>
+    <br/>
 
-  {% if page.students %}
+    {% comment %} student here!!!!!!!!!! {% endcomment %}
     <header class="post-header">
-      <h1 class="post-title">Students</h1>
+		<h1 class="post-title">
+      Students
+      </h1>
     </header>
-    <article>
       {% for student in page.students %}
         <hr>
         <div class="profile float-{% if student.align == 'left' %}left{% else %}right{% endif %}">
@@ -55,10 +60,10 @@ layout: page
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
             {% endif %}
             {% capture sizes %}
-              (max-width: 600px) 20vw,
-              (min-width: 601px) and (max-width: 1200px) 20vw,
+              (max-width: 600px) 20vw, 
+              (min-width: 601px) and (max-width: 1200px) 20vw, 
               (min-width: 1201px) 20vw
-            {% endcapture %}
+            {% endcapture %}            
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=student.image %}
           {% endif %}
         </div>
@@ -71,15 +76,18 @@ layout: page
           {% endif %}
         </div>
       {% endfor %}
-      <hr><hr><br/><br/>
-    </article>
-  {% endif %}
+    {% endif %}
+    <hr>
+    <hr>
+    <br/>
+    <br/>
 
-  {% if page.alumnus %}
+    {% comment %} alumni here!!!!!!!!!! {% endcomment %}
     <header class="post-header">
-      <h1 class="post-title">Alumnus</h1>
+		<h1 class="post-title">
+      Alumnus
+      </h1>
     </header>
-    <article>
       {% for alumni in page.alumnus %}
         <hr>
         <div class="profile float-{% if alumni.align == 'left' %}left{% else %}right{% endif %}">
@@ -91,10 +99,10 @@ layout: page
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
             {% endif %}
             {% capture sizes %}
-              (max-width: 600px) 20vw,
-              (min-width: 601px) and (max-width: 1200px) 20vw,
+              (max-width: 600px) 20vw, 
+              (min-width: 601px) and (max-width: 1200px) 20vw, 
               (min-width: 1201px) 20vw
-            {% endcapture %}
+            {% endcapture %}            
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=alumni.image %}
           {% endif %}
         </div>
@@ -107,7 +115,9 @@ layout: page
           {% endif %}
         </div>
       {% endfor %}
-      <hr><hr><br/><br/>
-    </article>
-  {% endif %}
+    <hr>
+    <hr>
+    <br/>
+    <br/>
+  </article>
 </div>
