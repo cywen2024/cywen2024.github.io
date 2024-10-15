@@ -33,7 +33,7 @@ social: true # includes social icons at the bottom of the page
         <img src="../assets/img/group.png" alt="Description of image" style="max-width: 100%; height: auto;">
 </div>
 <div align="justify">
-Welcome to the Autonomous and Intelligent Robotics Lab (AIRO Lab)! We are one of the member of the Research Centre for Unmanned Autonomous Systems, of the Department of Aeronautical and Aviation Engineering of The Hong Kong Polytechnic University. Feel free to browse through our research paper <a href="/publications">(click me)</a> and code <a href="https://github.com/HKPolyU-UAV">(click me)</a>; drop us an email or issue for any discussion! <br/> <br/> <br/>
+Welcome to the Autonomous and Intelligent Robotics Lab (AIRO Lab)! w我们有两个方向, 分别是Fluid and Robotics. We are one of the member of the Research Centre for Unmanned Autonomous Systems, of the Department of Aeronautical and Aviation Engineering of The Hong Kong Polytechnic University. Feel free to browse through our research paper <a href="/publications">(click me)</a> and code <a href="https://github.com/HKPolyU-UAV">(click me)</a>; drop us an email or issue for any discussion! <br/> <br/> <br/>
 </div>
 
 
