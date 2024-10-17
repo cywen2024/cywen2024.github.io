@@ -51,27 +51,32 @@ By integrating our fluid dynamics expertise with robotics, we strive to push the
   }
 </style>
 
-<div id="imageCarousel" class="carousel slide" data-ride="carousel">
+<div id="imageCarousel" class="carousel slide" data-ride="carousel" data-interval="3000">
   <!-- Indicators -->
   <ul class="carousel-indicators">
     <li data-target="#imageCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#imageCarousel" data-slide-to="1"></li>
     <li data-target="#imageCarousel" data-slide-to="2"></li>
+    <li data-target="#imageCarousel" data-slide-to="4"></li>
+    <li data-target="#imageCarousel" data-slide-to="5"></li>
   </ul>
 
   <!-- The slideshow -->
   <div class="carousel-inner">
+    <div class="carousel-item">
+      <img src="../assets/img/KaikaiYu_JFM.png" alt="Image 1" class="d-block w-100">
+    </div>
     <div class="carousel-item active">
-      <img src="../assets/img/landing.png" alt="Image 1" class="d-block w-100">
+      <img src="../assets/img/landing.png" alt="Image 2" class="d-block w-100">
     </div>
     <div class="carousel-item">
-      <img src="../assets/img/crack_inspection.png" alt="Image 2" class="d-block w-100">
+      <img src="../assets/img/YuLiangJFM.png" alt="Image 3" class="d-block w-100">
     </div>
     <div class="carousel-item">
-      <img src="../assets/img/jbl_tail.png" alt="Image 3" class="d-block w-100">
+      <img src="../assets/img/crack_inspection.png" alt="Image 4" class="d-block w-100">
     </div>
     <div class="carousel-item">
-      <img src="../assets/img/uuv.jpeg" alt="Image 4" class="d-block w-100">
+      <img src="../assets/img/train_fluid.png" alt="Image 5" class="d-block w-100">
     </div>
   </div>
 
