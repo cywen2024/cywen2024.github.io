@@ -101,7 +101,7 @@
 "PoF":
   color: "#fa6800"  
 
-"BuildingEnv":
+"Building Env":
   color: "#fa6800"
 
 "AIAA J.":
@@ -110,16 +110,21 @@
 "Acta Mechanica":
   color: "#fa6800"
 
-"IJMAT":
+"IJHMT":
   color: "#fa6800"
 
 "Comput. Fluid Mech":
   color: "#fa6800"
 
+"JAE":
+  color: "#fa6800"
 
 "JBE":
   color: "#fa6800"
 
 "Appl. Energy":
+  color: "#fa6800"
+
+"AST":
   color: "#fa6800"
 
