@@ -14,7 +14,7 @@ children:
   - title: divider
 
   - title: Hypersonic Transition
-    permalink: /research_fluid_hyperSonic/
+    permalink: /research_fluid_hyperSonicTrans/
   - title: divider
 
   - title: TODO

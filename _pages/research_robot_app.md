@@ -21,9 +21,16 @@ A new generation of UAV “PolyU-Strike” was developed and successfully comple
 
 In the development of beyond-line-of-sight (BLOS) Unmanned Aerial Vehicle (UAV) systems, communication between UAVs and the ground control station (GCS) is crucial. Economical wireless modules are limited by range and obstacles, so a communication relay system using quadrotors was developed and tested. The UAVs were built, hardware selected, and software for autonomous control developed. Tests in different scenarios showed the system effectively extends communication range and works over obstacles, demonstrating the feasibility of coordinating multiple UAVs using the same relay structure.
 
-<div style="display: flex; justify-content: center; align-items: center; background: transparent;">
-  <div style="position: relative; width: 640px; height: 320px; overflow: hidden;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HxN0oafNmzw?si=9SV2JOWX6xq0I9Zv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden; background: transparent;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/HxN0oafNmzw?si=9SV2JOWX6xq0I9Zv"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
 </div>
+
 

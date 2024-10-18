@@ -31,7 +31,7 @@ social: true # includes social icons at the bottom of the page
 
 # About Us
 <div style="text-align: center;">
-        <img src="../assets/img/group.png" alt="Description of image" style="max-width: 100%; height: auto;">
+        <img src="../assets/img/cover/group.png" alt="Description of image" style="max-width: 100%; height: auto;">
 </div>
 <div align="justify">
 
@@ -63,20 +63,20 @@ By integrating our fluid dynamics expertise with robotics, we strive to push the
 
   <!-- The slideshow -->
   <div class="carousel-inner">
-    <div class="carousel-item">
-      <img src="../assets/img/KaikaiYu_JFM.png" alt="Image 1" class="d-block w-100">
-    </div>
     <div class="carousel-item active">
-      <img src="../assets/img/landing.png" alt="Image 2" class="d-block w-100">
+      <img src="../assets/img/cover/KaikaiYu_JFM.png" alt="Image 1" class="d-block w-100">
     </div>
     <div class="carousel-item">
-      <img src="../assets/img/YuLiangJFM.png" alt="Image 3" class="d-block w-100">
+      <img src="../assets/img/cover/landing.png" alt="Image 2" class="d-block w-100">
     </div>
     <div class="carousel-item">
-      <img src="../assets/img/crack_inspection.png" alt="Image 4" class="d-block w-100">
+      <img src="../assets/img/cover/YuLiangJFM.png" alt="Image 3" class="d-block w-100">
     </div>
     <div class="carousel-item">
-      <img src="../assets/img/train_fluid.png" alt="Image 5" class="d-block w-100">
+      <img src="../assets/img/cover/crack_inspection.png" alt="Image 4" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/img/cover/train_fluid.png" alt="Image 5" class="d-block w-100">
     </div>
   </div>
 
