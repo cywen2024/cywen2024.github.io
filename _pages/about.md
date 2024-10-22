@@ -64,7 +64,7 @@ By integrating our fluid mechanics expertise with robotics, we strive to push th
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="../assets/img/cover/KaikaiYu_JFM.png" alt="Image 1" class="d-block w-100">
+      <img src="../assets/img/cover/golf_ball.gif" alt="Image 1" class="d-block w-100">
     </div>
     <div class="carousel-item">
       <img src="../assets/img/cover/landing.png" alt="Image 2" class="d-block w-100">

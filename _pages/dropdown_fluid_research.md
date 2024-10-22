@@ -17,6 +17,10 @@ children:
     permalink: /research_fluid_hyperSonicTrans/
   - title: divider
 
-  - title: TODO
-    permalink: /research_fluid_todo/
+  - title: Urban Env Simulation
+    permalink: /research_fluid_urban/
+  - title: divider
+
+  - title: AI for CFD
+    permalink: /research_fluid_AI4CFD/
 ---
