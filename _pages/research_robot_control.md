@@ -14,7 +14,21 @@ A dynamic model that considers both linear and complex nonlinear effects extensi
 <p></p>
 
 
+# Multi-agent Control
 
+Fixed-time Adaptive Consensus Control for Multi-Quadrotor Subject to External Disturbances Via RL
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden; background: transparent;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/HOlqoSXqcJ0?si=I_DwrDQPyQH46u32"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+<p></p>
 
 # UUV Control
 This research addresses the trajectory tracking problem of an unmanned underwater vehicle (UUV) within 4 degrees of freedom (DOF) subject to external disturbances and measurement noise. An adaptive control framework consisting of an adaptive model predictive control (MPC) and an error- state extended state observer (ESESO) is proposed. The MPC is utilized to stabilize the system while the ESESO is proposed to estimate both the state and the lump disturbance. In contrast to most conventional ESOs, we explicitly formulate a sensor-fusion problem by tracking the error state of the observer. The ESESO feeds back the filtered state to the MPC to achieve the adaptability of the closed-loop system. The stability analysis in the Lyapunov sense for both ESESO and adaptive MPC is conducted, whose asymptotic stability is shown. Sufficient simulation via a semi-physical experiment is conducted to validate the effectiveness and superiority of the proposed control framework.
