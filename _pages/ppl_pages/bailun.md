@@ -4,7 +4,8 @@
 
 <div align="justify">
 <br/>PhD Candidate
-<br/><br/>
+<br/>E-mail: <a href="mailto: bai-lun.jiang@connect.polyu.hk"> bai-lun.jiang@connect.polyu.hk</a>
+<br/>
 Sep 2021 - Present
 <br/><br/>
 Research Interest: <br/>

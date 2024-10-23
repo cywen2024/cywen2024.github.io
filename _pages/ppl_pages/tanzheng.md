@@ -3,7 +3,8 @@
 
 <div align="justify">
 <br/>PhD Candidate (NPU HKPolyU Dual-PhD)
-<br/><br/>
+<br/>E-mail: <a href="mailto:zheng-uav.tan@connect.polyu.hk">zheng-uav.tan@connect.polyu.hk</a>
+<br/>
 Jan 2024 - Present
 <br/><br/>
 Research Interest: <br/>

@@ -4,7 +4,8 @@
 
 <div align="justify">
 <br/>PhD Student
-<br/><br/>
+<br/>E-mail: <a href="mailto:hao-chen.hu@connect.polyu.hk">hao-chen.hu@connect.polyu.hk</a>
+<br/>
 May 2023 - Present
 <br/><br/>
 Research Interest: <br/>

@@ -4,7 +4,8 @@
 
 <div align="justify">
 <br/>PhD Student
-<br/><br/>
+<br/>E-mail: <a href="mailto:zhengyan.zhang@connect.polyu.hk">zhengyang.zhang@connect.polyu.hk</a>
+<br/>
 Jan 2024 - Present
 <br/><br/>
 Research Interest: <br/>

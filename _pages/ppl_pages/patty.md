@@ -3,7 +3,8 @@
 
 <div align="justify">
 <br/>MPhil Candidate
-<br/><br/>
+<br/>E-mail: <a href="mailto:patty.lo@connect.polyu.hk">patty.lo@connect.polyu.hk</a>
+<br/>
 Sep 2022 - Present
 <br/><br/>
 Research Interest: <br/>
