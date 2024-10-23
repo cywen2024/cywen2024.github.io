@@ -3,7 +3,8 @@
 
 <div align="justify">
 <br/>PhD Candidate
-<br/><br/>
+<br/>E-mail: <a href="mailto:canning.tong@connect.polyu.hk">canning.tong@connect.polyu.hk</a>
+<br/>
 Sep 2021 - Present
 <br/><br/>
 Research Interest: <br/>

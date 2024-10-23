@@ -4,8 +4,9 @@
 
 <div align="justify">
 <br/>PhD Student
-<br/><br/>
+<br/>
 Sep 2024 - Present
+<br/>E-mail: <a href="mailto:yifei1999.zhang@connect.polyu.hk">yifei1999.zhang@connect.polyu.hk</a>
 <br/><br/>
 Research Interest: <br/>
 Path Planning, SLAM, Robot Navigation

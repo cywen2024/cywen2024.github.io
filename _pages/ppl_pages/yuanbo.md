@@ -4,7 +4,8 @@
 
 <div align="justify">
 <br/>PhD Student
-<br/><br/>
+<br/>E-mail: <a href="mailto:yuanbo.xue@connect.polyu.hk">yuanbo.xue@connect.polyu.hk</a>
+<br/>
 Sep 2023 - Present
 <br/><br/>
 Research Interest: <br/>

@@ -36,11 +36,11 @@ social: true # includes social icons at the bottom of the page
 <div align="justify">
 
 <br/>
-Welcome to the High-speed Thermo-fluid and MAV/UAV Laboratory (HTML) at The Hong Kong Polytechnic University, led by Prof. Chih-Yung Wen. Our research focuses on two main areas: Fluid Mechanics and Robotics.
+Welcome to the High-speed Thermo-fluid and MAV/UAV Laboratory (HTML) at The Hong Kong Polytechnic University, led by Prof. Chih-Yung Wen. Our research focuses on two main areas: Fluid Dynamics and Robotics.
 
-In Fluid Mechanics, we investigate high-speed flow, dielectric barrier discharge (DBD) plasma actuators, and urban CFD simulations. In Robotics, we collaborate with the Research Centre for Unmanned Autonomous Systems to develop advanced unmanned aerial vehicles (UAVs) and micro aerial vehicles (MAVs), enhancing their autonomy and efficiency.
+In Fluid Dynamics, we investigate high-speed flow, dielectric barrier discharge (DBD) plasma actuators, and urban CFD simulations. In Robotics, we collaborate with the Research Centre for Unmanned Autonomous Systems to develop advanced unmanned aerial vehicles (UAVs) and micro aerial vehicles (MAVs), enhancing their autonomy and efficiency.
 
-By integrating our fluid mechanics expertise with robotics, we strive to push the boundaries of what is possible in both fields, contributing to advancements in aerospace engineering and autonomous systems. Feel free to browse through our <a href="/publications">research paper</a> and <a href="https://github.com/HKPolyU-UAV">code</a>; drop us an email for any discussion! <br/> <br/>
+By integrating our fluid dynamics expertise with robotics, we strive to push the boundaries of what is possible in both fields, contributing to advancements in aerospace engineering and autonomous systems. Feel free to browse through our <a href="/publications">research paper</a> and <a href="https://github.com/HKPolyU-UAV">code</a>; drop us an email for any discussion! <br/> <br/>
 </div>
 
 <style>
