@@ -9,7 +9,7 @@ nav: false
 # Parallel Fast 3D Tajectory Planner
 In this work, we present a parallel algorithm architecture with the map planner and the point cloud planner for UAVs trajectory planning, achieving satisfactory performance in the planning success rate, path length, and fast response ability.
 In this video, we will demonstrate the flight performance with a real drone in multiple environments, especially the reaction when faced with some intruding dynamic obstacles.
-
+<p></p>
 <div style="display: flex; justify-content: center; align-items: center; height: 45vh; background: transparent;">
   <div style="position: relative; width: 100%; max-width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
     <iframe
