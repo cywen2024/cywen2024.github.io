@@ -6,7 +6,7 @@
 <br/>PhD Candidate
 <br/>E-mail: <a href="mailto: bai-lun.jiang@connect.polyu.hk"> bai-lun.jiang@connect.polyu.hk</a>
 <br/>
-Sep 2021 - Present
+Sept 2021 - Present
 <br/><br/>
 Research Interest: <br/>
 Model Predictive Control, Quadrotor, Tail-Sitter VTOL UAV, Autonomous Drifting

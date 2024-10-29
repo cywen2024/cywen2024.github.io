@@ -6,7 +6,7 @@
 <br/>PhD Candidate
 <br/>E-mail: <a href="mailto:wenyu.yang@connect.polyu.hk">wenyu.yang@connect.polyu.hk</a>
 <br/>
-Sep 2022 - Present
+Sept 2022 - Present
 <br/><br/>
 Research Interest: <br/>
 Atunomous-targetless Calibration, Lidar SLAM, Sensor Fusion, UAV Inspection

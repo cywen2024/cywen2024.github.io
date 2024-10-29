@@ -5,7 +5,7 @@
 <br/>PhD Student
 <br/>E-mail: <a href="mailto:peiyuan.zhang@connect.polyu.hk">peiyuan.zhang@connect.polyu.hk</a>
 <br/>
-Sep 2023 - Present
+Sept 2023 - Present
 <br/><br/>
 Research Interest: <br/>
 Multi-Agent Differential Game
