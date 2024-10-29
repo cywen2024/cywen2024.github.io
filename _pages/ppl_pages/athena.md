@@ -5,7 +5,7 @@
 <br/>MPhil Candidate 
 <br/>E-mail: <a href="mailto:hiu-ching-athena.cheung@connect.polyu.hk">hiu-ching-athena.cheung@connect.polyu.hk</a>
 <br/><br/>
-Sep 2022 - Present
+Sept 2022 - Present
 <br/><br/>
 Research Interest: <br/>
 Aerial Manipulation, Soft Manipulator

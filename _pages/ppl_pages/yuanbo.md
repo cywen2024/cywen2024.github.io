@@ -6,7 +6,7 @@
 <br/>PhD Student
 <br/>E-mail: <a href="mailto:yuanbo.xue@connect.polyu.hk">yuanbo.xue@connect.polyu.hk</a>
 <br/>
-Sep 2023 - Present
+Sept 2023 - Present
 <br/><br/>
 Research Interest: <br/>
 Sensor Fusion, Underwater SLAM

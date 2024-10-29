@@ -10,11 +10,6 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
     
-  - align: left
-    image: ppl/by.jpg
-    content: ppl_pages/boyang.md
-    image_circular: true # crops the image to make it circular
-    
       
   - align: left
     image: ppl/bing.jpg
@@ -28,6 +23,21 @@ profiles:
     image_circular: true # crops the image to make it circular
   
   - align: left
+    image: ppl/zijian-zhang.png
+    content: ppl_pages/zijian-zhang.md
+    image_circular: true
+
+  - align: left
+    image: ppl/zhengtong-li.png
+    content: ppl_pages/zhengtong-li.md
+    image_circular: true
+
+  - align: left
+    image: ppl/by.jpg
+    content: ppl_pages/boyang.md
+    image_circular: true # crops the image to make it circular    
+
+  - align: left
     image: ppl/liyu.png
     content: ppl_pages/liyu.md
     image_circular: true
@@ -36,6 +46,23 @@ profiles:
     image: ppl/kangliu.png
     content: ppl_pages/kangliu.md
     image_circular: true
+
+  - align: left
+    image: ppl/ken.jpg
+    content: ppl_pages/ken.md
+    image_circular: true    
+
+  - align: left
+    image: ppl/ls-s.jpg
+    content: ppl_pages/lisong-shi.md
+    image_circular: true   
+
+  - align: left
+    image: ppl/zongnan-chen.jpg
+    content: ppl_pages/zongnan-chen.md
+    image_circular: true  
+
+
 
 students:
   - align: left
@@ -74,6 +101,22 @@ students:
     image_circular: true
 
   - align: left
+    image: ppl/ccw.png
+    content: ppl_pages/ccw.md
+    image_circular: true  
+    
+    
+  - align: left
+    image: ppl/yf-chen.jpg
+    content: ppl_pages/yifeng-chen.md
+    image_circular: true    
+
+  - align: left
+    image: ppl/jiachen-lu.png
+    content: ppl_pages/jiachen-lu.md
+    image_circular: true      
+
+  - align: left
     image: ppl/patty.png
     content: ppl_pages/patty.md
     image_circular: true
@@ -87,6 +130,7 @@ students:
     image: ppl/athena.png
     content: ppl_pages/athena.md
     image_circular: true
+  
   
   - align: left
     image: ppl/haru.png
@@ -104,6 +148,22 @@ students:
     image_circular: true
 
   - align: left
+    image: ppl/guoqin-zhao.jpg
+    content: ppl_pages/guoqin-zhao.md
+    image_circular: true  
+
+
+  - align: left
+    image: ppl/changye-huang.jpg
+    content: ppl_pages/changye-huang.md
+    image_circular: true       
+
+  - align: left
+    image: ppl/li-tan.jpg
+    content: ppl_pages/li-tan.md
+    image_circular: true 
+
+  - align: left
     image: ppl/zhengyan.png
     content: ppl_pages/zhengyan.md
     image_circular: true
@@ -119,12 +179,53 @@ students:
     image_circular: true
 
   - align: left
+    image: ppl/wanying-xu.jpg
+    content: ppl_pages/wanying-xu.md
+    image_circular: true    
+
+  - align: left
+    image: ppl/xinke-shao.jpg
+    content: ppl_pages/xinke-shao.md
+    image_circular: true     
+
+  - align: left
+    image: ppl/ziqi-jiang.jpg
+    content: ppl_pages/ziqi-jiang.md
+    image_circular: true   
+
+  - align: left
     image: ppl/yifei.png
     content: ppl_pages/yifei.md
-    image_circular: true
+    image_circular: true    
+      
+
+  - align: left
+    image: ppl/chi-zhang.png
+    content: ppl_pages/chi-zhang.md
+    image_circular: true      
+    
+  - align: left
+    image: ppl/xiao-liu.jpg
+    content: ppl_pages/xiao-liu.md
+    image_circular: true   
+
+  - align: left
+    image: ppl/guanhua-chen.png
+    content: ppl_pages/guanhua-chen.md
+    image_circular: true     
+
+  - align: left
+    image: ppl/wfj.jpg
+    content: ppl_pages/fengjuan-wang.md
+    image_circular: true 
 
   - align: left
     image: ppl/yuzhou.png
     content: ppl_pages/yuzhou.md
     image_circular: true
+
+  - align: left
+    image: ppl/qiming-lin.jpg
+    content: ppl_pages/qiming-lin.md
+    image_circular: true 
 ---

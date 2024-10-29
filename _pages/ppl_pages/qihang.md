@@ -6,7 +6,7 @@
 <br/>PhD Candidate
 <br/>E-mail: <a href="mailto:qihang1.peng@connect.polyu.hk">qihang1.peng@connect.polyu.hk</a>
 <br/>
-Sep 2022 - Present
+Sept 2022 - Present
 <br/><br/>
 Research Interest: <br/>
 Multi-Agent Planning, Reinforcement Learning
