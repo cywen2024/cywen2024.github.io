@@ -28,7 +28,7 @@ Figure 2. Golf ball design with Platonic solids
 <p></p>
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; background: transparent;">
-  <img src="../assets/img/ai4cfd/2_meshGrahNet.png" alt="Figure 3." style="max-width: 100%; height: auto;">
+  <img src="../assets/img/ai4cfd/3_meshGraphNet.png" alt="Figure 3." style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center; margin-top: 10px;">
 Figure 3. MeshGraphNet for rapid aerodynamic prediction (N, node; E, edge; G, graph)
