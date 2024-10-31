@@ -33,6 +33,11 @@ profiles:
     image_circular: true
 
   - align: left
+    image: ppl/peixu-guo.jpg
+    content: ppl_pages/peixu-guo.md
+    image_circular: true    
+
+  - align: left
     image: ppl/by.jpg
     content: ppl_pages/boyang.md
     image_circular: true # crops the image to make it circular    
