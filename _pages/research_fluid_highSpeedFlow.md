@@ -8,14 +8,15 @@ nav: false
 
 The space-time conservation element and solution element (CE/SE) method is a unique computational fluid dynamics (CFD) algorithm. It differs substantially in both concept and methodology from conventional method. The space and time are treated unified and the discrete scheme is derived from the original space-time integral form of the governing conservation laws. It can be proved that the discrete scheme satisfies both local and global flux conservations in space and time. Our group has implemented CE/SE method on general hybrid meshes (consisting of both triangular and quadrilateral elements) and extended it to high-order versions including third and fourth order. In our recent efforts, a family of upwind CE/SE schemes is also developed to further improve its accuracy and robustness. We also apply our in-house CE/SE in the research of: (1) hypersonic non-equilibrium flows; (2) detonation waves; and (3) two-phase compressible flows.
 
-<div style="display: flex; justify-content: center; align-items: center; background: transparent;">
-  <div style="position: relative; width: 550px; height: 200px; overflow: hidden;">
-    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="../assets/img/highSpeedFlow/hypervelocity_sphere.png" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
+
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; background: transparent;">
+  <img src="../assets/img/highSpeedFlow/hypervelocity_sphere.png" alt="Figure 1. Transition phenomenon" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center; margin-top: 10px;">
   Figure 1.  Hypervelocity non-equilibrium flows over spheres 
 </div>
+<p></p>
+<p></p>
 
 <p></p>
 <div style="display: flex; justify-content: center; align-items: center; background: transparent;">

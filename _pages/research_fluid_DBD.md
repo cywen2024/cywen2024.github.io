@@ -5,8 +5,17 @@ title: DBD Plasma Actuator
 description: The dielectric barrier discharge (DBD) plasma actuator is extremely fast response, light weight, flexibility to be installed and the low power consumption.
 nav: false
 ---
+The dielectric barrier discharge (DBD) plasma actuator has gained great popularity in active flow control in the past decade because of its extremely fast response, light weight, flexibility to be installed and the low power consumption. It has been widely applied for drag reduction, separation control, lift enhancement, noise control and maneuvering.
+<br/>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; background: transparent;">
+  <img src="../assets/img/DBD/DBDn0.png" alt="Figure 1. Transition phenomenon" style="max-width: 100%; height: auto;">
+</div>
+<div style="text-align: center; margin-top: 10px;">
+  Figure 0. Schematic of the AC-DBD and NS-DBD plasma actuator
 
-The alternating-current dielectric barrier discharge (DBD) plasma actuator has gained great popularity in active flow control in the past decade because of its extremely fast response, light weight, flexibility to be installed and the low power consumption. It has been widely applied for drag reduction, separation control, lift enhancement, noise control and maneuvering.<br/>
+</div>
+<p></p>
+<p></p>
 
 # 1. Applications for flow control over a delta wing
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
@@ -20,10 +29,19 @@ The alternating-current dielectric barrier discharge (DBD) plasma actuator has g
 
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; background: transparent;">
-  <img src="../assets/img/DBD/DBDn1.png" alt="Figure 1. Transition phenomenon" style="max-width: 100%; height: auto;">
+  <img src="../assets/img/DBD/DBDn1a.png" alt="Figure 1. Transition phenomenon" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center; margin-top: 10px;">
-  Figure 1. Smoke flow visualization results show the typical LEV structure in the transverse cross-section: (a) baseline case; (b) symmetric control case; and (c) asymmetric control (starboard-controlled) case
+  Figure 1a. Smoke flow visualization results show the typical LEV structure in the transverse cross-section: (a) baseline case; (b) symmetric control case; and (c) asymmetric control (starboard-controlled) case
+</div>
+<p></p>
+<p></p>
+
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; background: transparent;">
+  <img src="../assets/img/DBD/DBDn1b.png" alt="Figure 1. Transition phenomenon" style="max-width: 100%; height: auto;">
+</div>
+<div style="text-align: center; margin-top: 10px;">
+  Figure 1b. Smoke flow visualization results show the typical LEV structure in the transverse cross-section: (a) baseline case; (b) symmetric control case; and (c) asymmetric control (starboard-controlled) case
 </div>
 <p></p>
 <p></p>
