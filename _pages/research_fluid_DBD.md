@@ -41,7 +41,7 @@ The dielectric barrier discharge (DBD) plasma actuator has gained great populari
   <img src="../assets/img/DBD/DBDn1b.png" alt="Figure 1. Transition phenomenon" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center; margin-top: 10px;">
-  Figure 1b. Smoke flow visualization results show the typical LEV structure in the transverse cross-section: (a) baseline case; (b) symmetric control case; and (c) asymmetric control (starboard-controlled) case
+  Figure 1b. PIV results showing the dimensionless vorticity contours
 </div>
 <p></p>
 <p></p>
