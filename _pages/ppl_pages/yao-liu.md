@@ -4,7 +4,7 @@
 
 <div align="justify">
 <br/>
-Dissertation Title: <br/>
+Thesis Title:
 <a href="https://theses.lib.polyu.edu.hk/handle/200/8206">Design of a shock tube for the study of shock droplet interaction experiments
 </a>
 <br/>

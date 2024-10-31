@@ -3,7 +3,7 @@
 
 <div align="justify">
 <br/>
-Thesis Title: <br/>
+Thesis Title:
 <a href="https://theses.lib.polyu.edu.hk/handle/200/11730">Application of momentum potential theory in the study of hypersonic boundary layer instabilities
 </a>
 <br/>

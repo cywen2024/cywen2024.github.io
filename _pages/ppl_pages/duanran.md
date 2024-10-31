@@ -3,7 +3,7 @@
 
 <div align="justify">
 <br/>
-Thesis Title: <br/>
+Thesis Title:
 <a href="https://theses.lib.polyu.edu.hk/handle/200/11787">Visual smart navigation for UAV mission-oriented flight
 </a>
 <br/>

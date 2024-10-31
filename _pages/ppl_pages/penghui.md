@@ -3,7 +3,7 @@
 
 <div align="justify">
 <br/>
-Thesis Title: <br/>
+Thesis Title:
 <a href="https://theses.lib.polyu.edu.hk/handle/200/9065">Aerodynamics of VTOL UAV
 </a>
 <br/>

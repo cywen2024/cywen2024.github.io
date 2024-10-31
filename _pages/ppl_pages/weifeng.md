@@ -3,7 +3,7 @@
 
 <div align="justify">
 <br/>
-Thesis Title: <br/>
+Thesis Title:
 <a href="https://theses.lib.polyu.edu.hk/handle/200/11224">Modelling and controlling of an autonomous tail-sitter vertical take-off and landing (VTOL) unmanned aerial vehicles (UAVs)
 </a>
 <br/>

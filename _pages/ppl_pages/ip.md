@@ -3,7 +3,7 @@
 
 <div align="justify">
 <br/>
-Thesis Title: <br/>
+Thesis Title:
 <a href="https://theses.lib.polyu.edu.hk/handle/200/10113">Wind tunnel experimental study of variable-pitch propeller efficiency for VTOL UAV application
 </a>
 <br/>
