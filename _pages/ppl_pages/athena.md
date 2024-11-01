@@ -1,4 +1,4 @@
-## Hiu Ching Cheung Athena
+## Hiu Ching Cheung, Athena
 ##### BEng, The Hong Kong Polytechnic University (HKPolyU)
 
 <div align="justify">
