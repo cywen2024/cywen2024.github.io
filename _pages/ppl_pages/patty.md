@@ -1,4 +1,4 @@
-## Patrick Li-Yu Lo
+## Li-Yu Lo, Patrick
 ##### BEng, The Hong Kong Polytechnic University (HKPolyU)
 
 <div align="justify">

@@ -1,4 +1,4 @@
-## Jeremy Chang
+## Dr. Ching-Wei Chang, Jeremy
 ##### 2022 PhD
 
 <div align="justify">

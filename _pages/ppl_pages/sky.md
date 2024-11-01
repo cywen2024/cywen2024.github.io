@@ -1,4 +1,4 @@
-## Tse Kwai Wa Sky
+## Tse Kwai Wa, Sky
 ##### BEng, The Chinese University of Hong Kong (CUHK)
 
 <div align="justify">
