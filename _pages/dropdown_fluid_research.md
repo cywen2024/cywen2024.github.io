@@ -5,8 +5,8 @@ nav: true
 nav_order: 2
 dropdown: true
 children:
-  - title: High Speed Flow
-    permalink: /research_fluid_highSpeedFlow/
+  - title: AI for CFD
+    permalink: /research_fluid_AI4CFD/
   - title: divider
 
   - title: DBD Plasma Actuator
@@ -21,6 +21,6 @@ children:
     permalink: /research_fluid_urban/
   - title: divider
 
-  - title: AI for CFD
-    permalink: /research_fluid_AI4CFD/
+  - title: High Speed Flow
+    permalink: /research_fluid_highSpeedFlow/
 ---

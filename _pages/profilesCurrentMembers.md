@@ -9,24 +9,21 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-    
-      
   - align: left
     image: ppl/bing.jpg
     content: ppl_pages/bing.md
     image_circular: true # crops the image to make it circular
     
+  - align: left
+    image: ppl/zijian-zhang.png
+    content: ppl_pages/zijian-zhang.md
+    image_circular: true
 
   - align: left
     image: ppl/tianqi.png
     content: ppl_pages/tianqi.md
     image_circular: true # crops the image to make it circular
   
-  - align: left
-    image: ppl/zijian-zhang.png
-    content: ppl_pages/zijian-zhang.md
-    image_circular: true
-
   - align: left
     image: ppl/zhengtong-li.png
     content: ppl_pages/zhengtong-li.md
@@ -66,8 +63,6 @@ profiles:
     image: ppl/zongnan-chen.jpg
     content: ppl_pages/zongnan-chen.md
     image_circular: true  
-
-
 
 students:
   - align: left
