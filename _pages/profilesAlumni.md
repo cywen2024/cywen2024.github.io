@@ -14,13 +14,13 @@ alumnus:
     image_circular: true 
 
   - align: left
-    image: ppl/jeremy.png
-    content: ppl_pages/jeremy-chang.md
+    image: ppl/chenhan-handsome.png
+    content: ppl_pages/chenhan.md
     image_circular: true 
 
   - align: left
-    image: ppl/chenhan-handsome.png
-    content: ppl_pages/chenhan.md
+    image: ppl/jeremy.png
+    content: ppl_pages/jeremy-chang.md
     image_circular: true 
 
   - align: left
