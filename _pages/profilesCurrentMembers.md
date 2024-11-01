@@ -64,6 +64,11 @@ profiles:
     content: ppl_pages/zongnan-chen.md
     image_circular: true  
 
+  - align: left
+    image: ppl/qingyang-meng.png
+    content: ppl_pages/qingyang-meng.md
+    image_circular: true  
+
 students:
   - align: left
     image: ppl/sky.jpg
